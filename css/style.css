@@ -2546,6 +2546,10 @@ body {
     margin-bottom: 10px;
   }
 
+  .footer-form__input {
+    padding: 10px 15px 10px 10px;
+  }
+
   .menu__item {
     margin-bottom: 10px;
   }
